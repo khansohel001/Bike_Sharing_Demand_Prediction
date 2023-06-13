@@ -1,7 +1,7 @@
 # Bike Sharing Demand Prediction - Regression
 
 Click on the following link to checkout the video presentation and the colab file.
-- [Colab](https://github.com/novus-afk/BikeSharingDemandRegression/blob/master/BikeSharingDemandPrediction_Regression.ipynb)
+- [Colab](https://github.com/khansohel001/Bike_Sharing_Demand_Prediction/blob/main/BikeSharingDemandPrediction(regression).ipynb)
 - [Video](https://youtu.be/l7jhMK51tyU)
 
 
